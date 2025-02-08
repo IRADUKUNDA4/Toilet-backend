@@ -1,7 +1,7 @@
 const server = {
     servers: [
       {
-        url: "https://puce-helpful-xerus.cyclic.app", // url
+        url: "https://toilet-backend-qv1c-2gnz323z2-iradukunda-thierrys-projects.vercel.app", // url
         description: "Local server", // name
       },
     ],
